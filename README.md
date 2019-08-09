@@ -1,7 +1,5 @@
-# htop-vim-solarized
+# (DEPRECATED) htop-vim-solarized
 
-A simple arch linux package for the latest htop version with vim keybindings and
-solarized patches applied.
+This Arch package is deprecated.  I no longer use Arch so I no longer maintain my AUR packages.
 
-This is the work of many contributors. You can see a list of them in the header
-of the [PKGBUILD](PKGBUILD) file.
+As of this writing, the fork that owns the package on AUR was https://github.com/lrustand/htop-vim-solarized.
